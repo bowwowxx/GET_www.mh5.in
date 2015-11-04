@@ -1,0 +1,11 @@
+{
+  "name": "bowwowGo",
+  "version": "0.0.1",
+  "description": "get mh5.in comic",
+  "private": true,
+  "main": "go.js",
+  "dependencies": {
+    "request": "*",
+    "mkdirp": "*"
+  }
+}
